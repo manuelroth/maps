@@ -24,3 +24,5 @@ react-native run-android OR react-native run-ios
 ```
 
 More information about getting started with React Native can be found [here](https://facebook.github.io/react-native/docs/getting-started.html).
+
+![ios-gif](http://g.recordit.co/3Kn5cxescc.gif)
