@@ -16,8 +16,8 @@ In order to build the Android or iOS version you need to install Xcode and Andro
 * [Xcode](https://developer.apple.com/xcode/download/)
 * [Android Studio](http://developer.android.com/sdk/index.html)
 
-- After cloning this repository add your [Mapbox API Access Token](https://www.mapbox.com/help/create-api-access-token/) to the `index.ios.js` and `index.android.js` file. The API Token is still needed for sprites and glyphs even though OSM2VectorTiles is used as vectortile source.
-- Start your Android or iOS Simulator and run the commands below
+After cloning this repository add your [Mapbox API Access Token](https://www.mapbox.com/help/create-api-access-token/) to the `index.ios.js` and `index.android.js` file. The API Token is still needed for sprites and glyphs even though OSM2VectorTiles is used as vectortile source.
+Start your Android or iOS Simulator and run the commands below
 
 ```bash
 npm install
