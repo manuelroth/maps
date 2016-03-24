@@ -1,6 +1,6 @@
 # Cross-Platform Maps App
 
-<img align="right" alt="logo" src="logo.jpg" />
+<img align="right" alt="logo" src="logo.png" />
 
 Cross-Platform Maps App using [React Native](https://github.com/facebook/react-native) with [Mapbox GL Module](https://github.com/mapbox/react-native-mapbox-gl) and [OSM2VectorTiles](http://osm2vectortiles.org/) as vector data source.
 
