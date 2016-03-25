@@ -2,7 +2,7 @@
 
 var React = require('react-native');
 var Mapbox = require('react-native-mapbox-gl');
-var mapRef = 'map';
+var mapRef = 'OpenStreetMap';
 var {
   AppRegistry,
   StyleSheet,
@@ -39,6 +39,7 @@ var map = React.createClass({
           centerCoordinate={this.state.center}
           zoomLevel={this.state.zoom}
           logoIsHidden={true}
+          attributionButtonIsHidden={true}
         />
       </View>
     );
